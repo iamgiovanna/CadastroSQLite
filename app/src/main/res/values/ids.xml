@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtNome" type="id">edtNome</item>
+    <item name="edtEndereco" type="id">edtEndereco</item>
+    <item name="edtBairro" type="id">edtBairro</item>
+    <item name="edtCep" type="id">edtCep</item>
+    <item name="edtTel" type="id">edtTel</item>
+    <item name="btnCadastro" type="id">btnCadastro</item>
+    <item name="btnConfirmar" type="id">btnConfirmar</item>
+</resources>
